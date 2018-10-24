@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For ABE-MATRIXSCREEN8x8-Library
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ABE	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Init	KEYWORD2
+SetCursorOrigin	KEYWORD2
+SetCursor	KEYWORD2
+Clear	KEYWORD2
+PrintString	KEYWORD2
+PrintCaractere	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
