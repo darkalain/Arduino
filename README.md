@@ -5,3 +5,6 @@ Toutes mes librairies offrent l'avantage d'être compréhensible. En effet, pour
 
 LCD_I2C_ABE
   Librairie permettant l'utilisation d'un petit écran LCD via Arduino. L'avantage principale de mes fonctions réside dans la clarté afin de comprendre le fonctionnemnent.
+  
+MATRICE_SPI_ABE
+  Librairie permettant l'utilisation d'un afficheur matriciel à LED 8x8 commandé via SPI sur un MAX7219.
